@@ -1,0 +1,11 @@
+:root{
+    --global: #292F36;
+    --button-text-color: #FFFFFF;
+    --gold-text-color: #CDA274;
+    --second-text-color: #4D5053;
+    /*backgound-color*/
+    --people-background-color: #F4F0EC;
+    /*font*/
+    --body-font: "jost", sans-serif;
+    --second-font: "DM Serif Display",serif;
+}
