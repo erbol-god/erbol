@@ -11,6 +11,12 @@ html {
     margin: 0;
     box-sizing: inherit;
 }
- body {
+
+body {
     font-family: var(--body-font);
- }
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
